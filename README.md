@@ -286,6 +286,7 @@ Aim to keep track of developing trends and new tech that is helpful for the prac
 * [ModeAnalytics](https://modeanalytics.com/) - platform to share analysis/data science.
 * [Apache Mahout](https://mahout.apache.org/) - Scalable machine learning library.  Not in python.
 * [Apache Hadoop](http://hadoop.apache.org/) - Open-source software for reliable, scalable, distributed computing.  Not really new (10 years old at this point)
+* [Apache Spark](https://spark.apache.org/)- Open-source distributed general purpose framework uses spark R and pysprak.
 
 ### Other Useful Scripts
 * [Spinning up EC2 instances](https://github.com/drewconway/data_science_box) - Drew Conway's scripts to easily spin up AWS EC2 instances. 
